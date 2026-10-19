@@ -1,0 +1,27 @@
+Voltairtech Drone Trainer V2 - License
+
+Copyright (c) 2026 Voltairtech (Harshal Vadgama). All rights reserved.
+
+This repository hosts the downloads, documentation and images for the
+Voltairtech Drone Trainer V2 simulator. It is NOT open source.
+
+You MAY:
+  - Download the Windows and macOS builds from the Releases page and use the
+    software for personal or organisational drone-pilot training, free of charge.
+  - Share links to this repository and its Releases.
+
+You MAY NOT, without prior written permission from Voltairtech:
+  - Redistribute, resell or rehost the installers or the application.
+  - Copy, modify, translate, decompile, disassemble or reverse engineer the
+    software or any of its files, or attempt to extract or bypass its licensing.
+  - Use the Voltairtech or Drone Trainer names, logos or screenshots to imply
+    endorsement or partnership.
+
+The "Advanced Drone Simulator" features are unlocked only with a valid serial
+number issued by Voltairtech and are subject to separate terms.
+
+The software is provided "AS IS", without warranty of any kind. Voltairtech is
+not liable for any damages arising from its use. It is a training aid and is not
+a substitute for supervised real-world flight training or DGCA certification.
+
+Contact: business@voltairtech.com
