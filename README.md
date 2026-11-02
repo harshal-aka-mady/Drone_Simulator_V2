@@ -1,15 +1,15 @@
 <div align="center">
 
-# Voltairtech Drone Trainer V2
+# Voltairtech Drone Trainer V3
 
-### India's RPTO drone pilot training simulator — Make in India
+### India's RPTO drone pilot training simulator · Make in India
 
-![Drone Trainer V2](screenshots/hero.png)
+![Drone Trainer V3](screenshots/hero.png)
 
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-0a66c2?style=for-the-badge&logo=windows)](../../releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20silicon-111?style=for-the-badge&logo=apple)](../../releases/latest)
-[![Version](https://img.shields.io/badge/version-2.2.0-f06a0e?style=for-the-badge)](../../releases/latest)
-[![Free](https://img.shields.io/badge/price-Free-138808?style=for-the-badge)](../../releases/latest)
+[![Version](https://img.shields.io/badge/version-3.0.2-f06a0e?style=for-the-badge)](../../releases/latest)
+[![Free edition](https://img.shields.io/badge/free%20edition-yes-138808?style=for-the-badge)](../../releases/latest)
 
 </div>
 
@@ -19,75 +19,65 @@
 
 | Platform | File | |
 |---|---|---|
-| **Windows** 10 / 11 (64-bit) | `DroneTrainerV2-Setup.exe` | [**Download**](../../releases/latest/download/DroneTrainerV2-Setup.exe) |
-| **macOS** (Apple silicon: M1 and later) | `DroneTrainerV2-mac.dmg` | [**Download**](../../releases/latest/download/DroneTrainerV2-mac.dmg) |
+| **Windows** 10 / 11 (64-bit) | `DroneTrainerV3-Setup.exe` | [**Download**](../../releases/latest/download/DroneTrainerV3-Setup.exe) |
+| **macOS** (Apple silicon: M1 and later) | `DroneTrainerV3-mac.dmg` | [**Download**](../../releases/latest/download/DroneTrainerV3-mac.dmg) |
 
-All downloads are on the [**Releases**](../../releases/latest) page. The game is **free to play**. Installing needs no serial number.
+Free to install and use. The **Advanced Drone Simulator** unlocks inside the game with a serial number.
+V3 installs next to V2. The older version stays on the [V2.2.0 release](../../releases/tag/Drone_Trainer_V2.2.0).
 
 ---
 
 ## What it is
 
-A flight simulator built for drone pilots training for the **DGCA RPTO** exam in India. It runs the full exam flow, free flying, the aircraft checks a pilot does before and after a flight, and a Make in India drone builder.
-
-- **RPTO exam, scored out of 150** — pre-flight check (25) + 10 flight tests (100) + post-flight check (25).
-- **Pre-flight and post-flight checks** — walk-around, accelerometer and Pixhawk-style compass calibration, motor and propeller test, DGCA log book.
-- **Free flying** — pick a location, weather and drone, fly in Stabilize / Altitude-hold / Loiter / Acro modes with a realistic flight model.
-- **Radio setup** — connect and calibrate a transmitter.
-- **Instruments and learning** — live attitude, altitude, speed, GPS, battery and wind, with a reference section for every instrument, mode and term.
-- **India drone news** — the latest drone-industry headlines on the home screen.
-- Works with **keyboard** or a real **RC transmitter**, and supports **FPV goggles over HDMI**.
-
----
+A drone flight simulator for **RPTO training in India**, built around the DGCA Remote Pilot Certificate syllabus (DTC 02 of 2022) and DGCA's simulator requirements for RPTOs (DTC 01 of 2026). Trainees practise the RPTO test and the theory. RPTOs run the full course with grades, records and reports.
 
 ## Free vs Advanced
 
-| | Free | Advanced Drone Simulator |
-|---|---|---|
-| RPTO exam (150 marks) | ✅ | ✅ |
-| Pre / post flight checks, log book | ✅ | ✅ |
-| Free flying, radio setup, learning | ✅ | ✅ |
-| India drone news | ✅ | ✅ |
-| **Make in India drone builder** | — | ✅ |
-| **Reference Indian drones (fly them)** | — | ✅ |
-| **FPV goggles over HDMI, advanced settings** | — | ✅ |
-| **Pilot results, race rankings** | — | ✅ |
+| | Free | Advanced |
+|---|:---:|:---:|
+| **RPTO Test (Trial Version)** with marks: pre-flight 25 + the 13 DGCA flown exercises x 10 + post-flight 25 = **180** | ✅ | ✅ |
+| Practice any of the 13 exercises, in any flight mode | ✅ | ✅ |
+| **Theory T1.1 to T1.11**: lessons, quizzes and the 40-minute theory test with marks and grade A to E | ✅ | ✅ |
+| Learn, DGCA compliance list, free flight, drone tuning, pre-flight check, radio setup, India drone news | ✅ | ✅ |
+| **Settings**: text size, screen shape for TVs and projectors, graphics level | ✅ | ✅ |
+| **Full DGCA RPC course**: simulator exercises, flying exercises, Progress Check, Final Test, assembly. Every manoeuvre graded A to E | | ✅ |
+| **Trainee records** kept for 5 years and sealed, with **flight log replay** (date, time, location) | | ✅ |
+| **Skill test reports**, logbook, theory marks sheet, final training report | | ✅ |
+| **Instructor mode**: take-over, failures, grading settings | | ✅ |
+| Reference diagrams in every lesson, drone builder, Indian drones, FPV goggles | | ✅ |
 
-The **Advanced Drone Simulator** is unlocked with a serial number inside the game (**Get Advanced**, top right). It is **launching this Diwali** and is in testing now.
+In the free edition, pressing any Advanced item shows what it does before you decide.
 
 ---
 
 ## Screenshots
 
-### Home
-
-![Home — Advanced](screenshots/home-advanced.png)
-
-### RPTO exam, scored out of 150
-
-![RPTO exam](screenshots/exam.png)
-
-### Flight with full instruments
-
-![In flight](screenshots/flight.png)
-
-### Make in India drone builder
-
-![Drone builder](screenshots/builder.png)
-
-### Reference Indian drones
-
-![Indian drones](screenshots/indian-drones.png)
-
-### Learn — instruments, modes and terms
-
-![Learn](screenshots/learn.png)
-
-### Free edition home, and the Advanced greeting
+### RPTO Test with marks, and flying an exercise
 
 <p align="center">
-  <img src="screenshots/home-free.png" width="49%" />
-  <img src="screenshots/advanced.png" width="49%" />
+  <img src="screenshots/exam.png" width="49%" />
+  <img src="screenshots/flight.png" width="49%" />
+</p>
+
+### Advanced: the DGCA course, graded A to E
+
+<p align="center">
+  <img src="screenshots/course.png" width="49%" />
+  <img src="screenshots/scoreboard.png" width="49%" />
+</p>
+
+### Advanced: flight log replay, and lessons with reference diagrams
+
+<p align="center">
+  <img src="screenshots/replay.png" width="49%" />
+  <img src="screenshots/lesson.png" width="49%" />
+</p>
+
+### Free edition: what Advanced adds, and display settings
+
+<p align="center">
+  <img src="screenshots/preview.png" width="49%" />
+  <img src="screenshots/settings.png" width="49%" />
 </p>
 
 ---
@@ -96,45 +86,41 @@ The **Advanced Drone Simulator** is unlocked with a serial number inside the gam
 
 ### Windows
 
-1. Download `DroneTrainerV2-Setup.exe` from [Releases](../../releases/latest).
-2. Run it, choose a folder, and it creates Start-menu and desktop shortcuts.
-3. If Windows SmartScreen shows a blue box, click **More info → Run anyway** (the app is not yet signed with a paid certificate).
+1. Download `DroneTrainerV3-Setup.exe` from [Releases](../../releases/latest) and run it.
+2. If Windows SmartScreen shows a blue box, click **More info**, then **Run anyway**. The app is not yet signed with a paid certificate.
+3. To update V3, close the game and run the new setup over the old one.
 
 ### macOS (Apple silicon)
 
-1. Download `DroneTrainerV2-mac.dmg`, open it, and drag **Drone Trainer V2** into **Applications**.
-2. The first time only: right-click the app and choose **Open**, then **Open** again. (On the newest macOS: **System Settings → Privacy & Security → Open Anyway**.)
-3. After the first open it launches like any other app.
+1. Open `DroneTrainerV3-mac.dmg` and drag **Drone Trainer V3** into **Applications** (choose **Replace** when updating).
+2. First time only: right-click the app, choose **Open**, then **Open** again. On the newest macOS: **System Settings > Privacy & Security > Open Anyway**.
 
-Full screen is **Control + Command + F** on Mac and **F11** on Windows.
+### Good to know
+
+- Fly with the keyboard, or any RC radio, USB dongle or gamepad that the computer shows as a game controller (Mode 2).
+- Full screen: **F11** on Windows, **Control + Command + F** on Mac.
+- On a big screen or projector, open **Settings** (top right) for text size and screen shape.
 
 ---
 
-## Advanced, institutes, defense and brands
+## For RPTOs, institutes and drone brands
 
-- **Institutes and defense companies** planning a batch for training: tell us how many you need.
-- **Drone makers** who want their drone featured in the simulator: there are commercials for it, and the **first 5 companies go free**.
-- **Defense drones coming soon.**
+- **RPTOs and institutes:** DGCA asks for at least 2 simulators per batch of up to 20 trainees. Advanced is one serial per computer, so tell us how many seats you need.
+- **Drone makers:** want your drone in the simulator? The first 5 companies go free.
+- **Advertising:** the hoardings around the training ground and the home screen card are open to drone brands.
 
-Reach us at **business@voltairtech.com** or **WhatsApp +91 7021000764**.
+**business@voltairtech.com** · **WhatsApp +91 7021000764**
 
 ---
 
 ## About
 
-Built by **[Voltairtech](https://voltairtech.com)**, a Make in India studio. The simulator is an independent training tool.
+Built by **[Voltairtech](https://voltairtech.com)**, a Make in India studio. Drone Trainer is an independent training tool built around DGCA's published syllabus and rules. It is not a DGCA product.
 
-The reference Indian drones and components in the builder are shown as default models of the same class; we have not collaborated with those companies, and the models will be updated as we get each maker's permission.
-
-**Contact:** business@voltairtech.com · WhatsApp +91 7021000764
-
----
+Reference Indian drones are shown as default models of the same class. We have not collaborated with those companies, and each model is updated once its maker gives permission.
 
 <div align="center">
 
-**© 2026 Voltairtech. All rights reserved.** Free to download and use. Not open source — see [LICENSE](LICENSE).
+**© 2026 Voltairtech. All rights reserved.** Free to download and use. Not open source: see [LICENSE](LICENSE).
 
 </div>
-"# Drone_Simulator_V2" 
-"# Drone_Simulator_V2" 
-"# Drone_Simulator_V2" 
